@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.5.0"></a>
+# [1.5.0](https://github.com/tomoyukikashiro/html2amp/compare/v1.4.1...v1.5.0) (2020-02-13)
+
+
+### Features
+
+* **iframe:** allow for attributes to be overridden and elements removed ([01647a8](https://github.com/tomoyukikashiro/html2amp/commit/01647a8))
+
+
+
 <a name="1.4.1"></a>
 ## [1.4.1](https://github.com/tomoyukikashiro/html2amp/compare/v1.4.0...v1.4.1) (2020-02-12)
 
