@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.6.1"></a>
+## [1.6.1](https://github.com/tomoyukikashiro/html2amp/compare/v1.6.0...v1.6.1) (2020-06-05)
+
+
+### Bug Fixes
+
+* **srcNode:** add try catch to fs.createReadStream call ([edf7eb6](https://github.com/tomoyukikashiro/html2amp/commit/edf7eb6))
+
+
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/tomoyukikashiro/html2amp/compare/v1.5.0...v1.6.0) (2020-02-13)
 
